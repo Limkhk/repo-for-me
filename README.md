@@ -2,7 +2,7 @@
 ## Фото:
 <img src="https://upload.wikimedia.org/wikipedia/ru/5/59/%D0%A8%D1%83%D1%80%D0%B8%D0%BA-%D0%BA%D0%B0%D0%B4%D1%80.jpg" width="300">
 
-## ФИО:
+### ФИО:
 _Шурик_
 
 ### Род деятельности:
